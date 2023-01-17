@@ -4,7 +4,7 @@
 <hr>
 <p align="center">An image editor controlled with the hand</p>
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=yOZVz0-dpwc">Watch Demo</a>
+    <a href="https://youtu.be/c6OgKY9Bn2Y">Watch Demo</a>
     ·
 <a href="https://github.com/Mario-td/HandCamEditor/issues">Request Feature</a>
     ·
@@ -23,7 +23,7 @@
             <a href="#getting-started">Getting Started</a>
             <ul>
                 <li><a href="#prerequisites">Prerequisites</li>
-                <li><a href="#run">Run</li>
+                <li><a href="#run">Usage</li>
             </ul>
         </li>
         <li><a href="#references">References</a></li>
@@ -35,7 +35,7 @@
 
 <br>
 <div align="center">
-    <a href="https://www.youtube.com/watch?v=yOZVz0-dpwc"><img src="resources/App Screenshot.png" style="width: 75vw"></a>
+    <a href="https://youtu.be/c6OgKY9Bn2Y"><img src="resources/App Screenshot.png" style="width: 75vw"></a>
 </div>
 <br>
 <p>This image editor allows the user to control the cursor with their hand. The index finger leads the location of the cursor and the thumb contractions are used to click.</p> 
@@ -52,7 +52,7 @@
     Download and install the aforementioned python version. It has not been tested with later versions
 
 <br>
-<h3 id="run">Run</h3>
+<h3 id="run">Usage</h3>
 
 Clone this repository
 
